@@ -28,6 +28,12 @@ To have a look at the repository of the story: https://github.com/diogosoares22/
 
 The Quotebank (quotes centric version) dataset will be used jointly with Special attributes dataset, additionally Google trends data will be used for producing meaningful comparisons and Quotebank (article centric version) will be used to find the date for each quote.
 
+Dataset links:
+
+- Quotebank : https://zenodo.org/record/4277311#.Yf7WAdso9H4
+- Google Trends : https://trends.google.com/trends/
+
+
 ## Methods
 
 ### Data preparation 

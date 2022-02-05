@@ -59,38 +59,4 @@ The Quotebank (quotes centric version) dataset will be used jointly with Special
 * Look at the difference in the distribution of the nationality, we noticed some differences and some similarity, we explained why this happens.
 * We build a machine learning model to explain which of the attributes of the speakers are the most relevant for them to have quotes referred to Trump or to Clinton.
 
-## Proposed timeline
-
-##### Milestone 2
-
-* 25th October - 31st October:
-  - Decide the idea of the project
-
-* 1st November - 7th November:
-  - Check the feasibility (checking if sentimental analysis is working)--> Some ideas were discarded
-
-* 8th November - 12th November:
-  - Preparing the data as described and show the feasibility of the idea
-
-##### Milestone 3
- * First week: Started writing the code (mainly time series part)
- 
- * Second week: Finish the codes (differences between speaker attributes of the two groups and machine learning model)
- 
- * Third week: Data Story
-
-## Organization within the team
-
-##### Milestone 2
-
-- Luca : Filtering data
-- Diogo : Merge files
-- Goncalo : Plotting and veryfing feasibility
-
-##### Milestone 3
-
-- Luca : Wrote all the codes for milestone 3, wrote timeseries part of the datastory, wrote google trend comparison part of datastory, wrote machine learning part of the datastory (mainly the tree part), fixing code quality, reviewing the datastory
-- Diogo : Review the code, wrote machine learning model part and age analysis part of the datastory
-- Goncalo : Wrote the part of the nationality of the datastory
-
 ### See Code Organization.md to understand how we have organized the notebooks

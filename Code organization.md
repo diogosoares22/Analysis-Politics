@@ -13,8 +13,8 @@
 ```
 
 Order in which the files can be reproduced:
-1) Run speaker attribute analysis ---> exploratory analysis
+1) Run Speaker Attribute Analysis ---> exploratory analysis
 2) Run Filter quotes ----> to filter the quotes
 3) Run Tranform special attributes ----> to replace ids in the speaker attributes file
 4) Run Map Dates ----> To have the date for each quote 
-5) Run Project 2 -----> To make analysis
+5) Run Politics Analysis -----> To make analysis
